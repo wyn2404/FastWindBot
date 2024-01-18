@@ -1,0 +1,28 @@
+{
+  "name": "fastwindbot",
+  "version": "0.1.1",
+  "description": "Made by WYN2404<quy66052@gmail.com>.",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wyn2404/fastwindbot.git"
+  },
+  "keywords": [
+    "wyn2404",
+    "fastwindbot"
+  ],
+  "author": "WYN2404",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wyn2404/fastwindbot/issues"
+  },
+  "homepage": "https://github.com/wyn2404/fastwindbot#readme",
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "ts-node": "^10.9.2",
+    "typerscript": "^0.2.3"
+  }
+}
